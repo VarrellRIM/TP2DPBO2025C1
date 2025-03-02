@@ -1,4 +1,3 @@
-
 // Baju.java
 // Kelas Baju merupakan turunan dari Aksesoris dan menambahkan atribut khusus untuk baju
 

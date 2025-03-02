@@ -1,4 +1,3 @@
-
 // Aksesoris.java
 // Kelas Aksesoris merupakan turunan dari PetShop dan menambahkan atribut khusus
 

@@ -45,5 +45,5 @@ public:
     }
 
     // Destructor
-    virtual ~PetShop() {}
+    ~PetShop() {}
 };
