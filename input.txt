@@ -1,0 +1,38 @@
+1
+6
+Baju Kucing Besar
+Pakaian
+220000
+Baju
+Sutra
+Coklat
+Kucing Besar
+18
+FelineWear
+
+1
+7
+Jaket Anjing Kecil
+Aksesoris
+175000
+Jaket
+Denim
+Biru
+Anjing Kecil
+9
+DogStyle
+
+1
+8
+Sweater Kucing Medium
+Pakaian
+190000
+Sweater
+Rajut
+Abu-abu
+Kucing Medium
+14
+PurrFashion
+
+2
+3
