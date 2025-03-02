@@ -6,9 +6,10 @@ Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktiku
 ---
 
 ## Diagram Kelas
-![image](https://github.com/user-attachments/assets/5aa36fc5-ddf4-45be-842d-a9fcd312c0f5)
+![image](https://github.com/user-attachments/assets/091ea30b-4740-41fb-a5e6-ebea3d8c37d3)
 
-*Hubungan Inheritance: PetShop → Aksesoris → Baju*
+
+*Hubungan Inheritance: PetShop <- Aksesoris <- Baju*
 
 ---
 
