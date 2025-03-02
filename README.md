@@ -1,4 +1,4 @@
-# TP2 (Tugas Praktikum 2) - PetShop Inventory Management
+# TP2 - PetShop Inventory Management
 
 ## Janji
 Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
@@ -87,14 +87,3 @@ Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan Tugas Praktiku
 - **Web Interface**: Form HTML dengan enctype `multipart/form-data` untuk upload gambar.
 - **Output**: Generate HTML dengan inline CSS untuk tabel.
 
----
-
-## Dokumentasi
-- **Test Case**: Lihat [testcase.txt](testcase.txt) untuk contoh input.
-- **Screenshot**:
-![Tampilan Tabel](screenshot.png)  
-*Contoh output tabel dinamis dalam C++*
-
----
-
-**Catatan**: Kode lengkap tersedia di file terpisah untuk masing-masing bahasa.
